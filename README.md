@@ -1,5 +1,14 @@
-# Vue 3 + TypeScript + Vite
+# Swarmakit App
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## This repo contains the code for my technical assessment
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## How to run
+
+- Clone the repo `git clone https://github.com/valentina-buoro/swarmakit-frontend.git`
+- Enter the repo `cd swarmakit-frontend`
+- Install the node modules which also contains the Swarmakit Library `npm i`
+- Run the application `npm run dev`
+
+## Prerequisites
+
+- NodeJS installed on your computer.
